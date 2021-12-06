@@ -43,7 +43,7 @@ html, body {
 }
 
 .main-header {
-    background-image: url("./assets/mckeldin.jpg");
+    background-image: url("../assets/mckeldin.jpg");
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
