@@ -9,7 +9,6 @@
 html, body {
     margin: 10;
     padding: 0;
-    background-color: lightblue;
 }
 
 .nav ul {
@@ -44,8 +43,7 @@ html, body {
 }
 
 .main-header {
-    background-color: red;
-    background-image: url('https://www.databankimx.com/wp-content/uploads/2015/07/Microsoft-Cloud-Offerings.jpg');
+    background-image: url("/assets/mckeldin.jpg");
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
